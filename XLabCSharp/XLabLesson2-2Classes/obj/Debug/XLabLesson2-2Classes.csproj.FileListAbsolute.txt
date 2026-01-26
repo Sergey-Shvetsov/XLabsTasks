@@ -1,0 +1,7 @@
+C:\XLABPROJECT\XLabCSharp\XLabLesson2-2Classes\bin\Debug\XLabLesson2-2Classes.exe.config
+C:\XLABPROJECT\XLabCSharp\XLabLesson2-2Classes\bin\Debug\XLabLesson2-2Classes.exe
+C:\XLABPROJECT\XLabCSharp\XLabLesson2-2Classes\bin\Debug\XLabLesson2-2Classes.pdb
+C:\XLABPROJECT\XLabCSharp\XLabLesson2-2Classes\obj\Debug\XLabLesson2-2Classes.csproj.AssemblyReference.cache
+C:\XLABPROJECT\XLabCSharp\XLabLesson2-2Classes\obj\Debug\XLabLesson2-2Classes.csproj.CoreCompileInputs.cache
+C:\XLABPROJECT\XLabCSharp\XLabLesson2-2Classes\obj\Debug\XLabLesson2-2Classes.exe
+C:\XLABPROJECT\XLabCSharp\XLabLesson2-2Classes\obj\Debug\XLabLesson2-2Classes.pdb

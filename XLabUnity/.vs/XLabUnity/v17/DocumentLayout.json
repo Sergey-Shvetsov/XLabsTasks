@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\XLABPROJECT\\XLabUnity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C70A07-681C-EEBF-277D-AD6ED79DE244}|Assembly-CSharp.csproj|c:\\xlabproject\\xlabunity\\assets\\xlablesson3_3\\xlablesson2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C70A07-681C-EEBF-277D-AD6ED79DE244}|Assembly-CSharp.csproj|solutionrelative:assets\\xlablesson3_3\\xlablesson2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XLabLesson2-3.cs",
+              "DocumentMoniker": "C:\\XLABPROJECT\\XLabUnity\\Assets\\XLabLesson3_3\\XLabLesson2-3.cs",
+              "RelativeDocumentMoniker": "Assets\\XLabLesson3_3\\XLabLesson2-3.cs",
+              "ToolTip": "C:\\XLABPROJECT\\XLabUnity\\Assets\\XLabLesson3_3\\XLabLesson2-3.cs",
+              "RelativeToolTip": "Assets\\XLabLesson3_3\\XLabLesson2-3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:31:25.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
